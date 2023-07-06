@@ -63,6 +63,6 @@
 - [WhosStranger](https://whosstranger.github.io/) my WebSite
 - [WhosStranger](https://app.hackthebox.com/profile/805901) on HackTheBox
 
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/ch4rum/
-[facebook]: https://www.facebook.com/profile.php?id=100066815058123
+
+[instagram]: https://www.instagram.com/
+[facebook]: https://www.facebook.com/
