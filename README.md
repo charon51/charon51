@@ -11,7 +11,7 @@
 <!-- [<img align="left" alt=" | YouTube" width="22px" src="./src/youtube.png" />][youtube]-->
 <!-- [<img align="left" alt="@m | Twitter" width="22px" src="./src/twitter.png" />][twitter]-->
 [<img align="left" alt="@ch4rum | Instagram" width="22px" src="./src/instagram.png" />][instagram]
-[<img align="left" alt="ch4rum | Facebook" width="22px" src="./src/facebook.png" />][]
+[<img align="left" alt="ch4rum | Facebook" width="22px" src="./src/facebook.png" />][facebook]
 
 </td>
 </tr>
