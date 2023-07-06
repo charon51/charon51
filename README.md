@@ -1,17 +1,8 @@
-### Hi there 👋
-<h3 align="center">I am passionate about technologies. Frontend/Backend Dev | Pentesting </h3>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-## Contact
-- [WhosStranger](https://whosstranger.github.io/) my WebSite
-- [WhosStranger](https://app.hackthebox.com/profile/805901) on HackTheBox
-
-
 <h1 align="center"><img src="./src/loficity2.gif" height="250px"></h1>
 <h2 align="center">Hello World <img src="./src/wave.gif" width="30px"> <!--:octocat:--></h2>
+
+<h3 align="center">I am passionate about technologies. Frontend/Backend Dev | Pentesting </h3>
+
 
 <table align="right">
 <tr>
@@ -67,16 +58,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ch4rum&theme=github_dark) 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch4rum&theme=github_dark" alt="ch4rum" /></p>
 
-<!---![Snake animation](https://github.com/ch4rum/ch4rum/blob/output/github-contribution-grid-snake.svg)
 
---->
----
-### <img src="./src/kyubey.gif" width="50px">GitHub Profile Trophy 🏆
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch4rum&&theme=github_dark" alt="ch4rum" /></a> </p>
-
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com/ch4rum/
-[facebook]: https://www.facebook.com/profile.php?id=100066815058123
-[reddit]: https://www.reddit.com/user/
+## Contact
+- [WhosStranger](https://whosstranger.github.io/) my WebSite
+- [WhosStranger](https://app.hackthebox.com/profile/805901) on HackTheBox
