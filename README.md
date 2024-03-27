@@ -19,7 +19,7 @@
 <details>
   <summary><img src="./src/gatohack.gif" width="35px"> About me!</summary>
 
-### 💻 Computer Engineering Student !!
+### 💻 Software Engineering Student !!
 - 🦾 I love computer security!
 - 🤓  I’m currently learning everything
 - 👾  I am very curious and that is why you start studying programming
