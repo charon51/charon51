@@ -59,10 +59,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch4rum&theme=github_dark" alt="ch4rum" /></p>
 
 
-## Contact
-- [WhosStranger](https://whosstranger.github.io/) my WebSite
-- [WhosStranger](https://app.hackthebox.com/profile/805901) on HackTheBox
-
-
-[instagram]: https://www.instagram.com/
-[facebook]: https://www.facebook.com/
