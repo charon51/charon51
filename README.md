@@ -1,7 +1,7 @@
 <h1 align="center"><img src="./src/loficity2.gif" height="250px"></h1>
 <h2 align="center">Hello World <img src="./src/wave.gif" width="30px"> <!--:octocat:--></h2>
 
-<h3 align="center">I am passionate about technologies. Frontend/Backend Dev | Pentesting </h3>
+<h3 align="center">Here one day on GitHub </h3>
 
 
 <table align="right">
