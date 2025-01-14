@@ -16,6 +16,7 @@
 </tr>
 </table>
 
+<!--
 <details>
   <summary><img src="./src/gatohack.gif" width="35px"> About me!</summary>
 
@@ -25,6 +26,7 @@
 - 👾  I am very curious and that is why you start studying programming
 - 🗒  I am currently very obsessed with learning computer security and python
 </details>
+-->
 <br />
 
 <!---
